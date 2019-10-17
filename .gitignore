@@ -1,0 +1,4 @@
+test-win.exe
+test-macos
+test-linux
+node_modules/*

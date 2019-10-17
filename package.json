@@ -1,0 +1,15 @@
+{
+  "name": "duvatest",
+  "version": "1.0.0",
+  "description": "Test Application",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Falck",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.1",
+    "twin-bcrypt": "^2.1.1"
+  }
+}
